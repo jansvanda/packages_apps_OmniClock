@@ -55,7 +55,7 @@
     <color name="view_background_black">#000000</color>
     <color name="window_background_black">#101010</color>
     <color name="primary">#607D8B</color>
-    <color name="primary_dark">#455A64</color>
+    <color name="primary_dark">@color/primary</color>
     <color name="primary_black">#000000</color>
     <color name="accent">#FF3D00</color>
     <color name="accent_black">#FF3D00</color>
