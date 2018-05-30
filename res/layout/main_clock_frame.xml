@@ -29,7 +29,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="2dp"
-        card_view:cardCornerRadius="2dp"
+        card_view:cardCornerRadius="15dp"
         card_view:cardBackgroundColor="@color/view_background">
 
         <LinearLayout
